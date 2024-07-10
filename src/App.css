@@ -36,3 +36,20 @@
 .text-iron {
   color: #0a035a;
 }
+
+.travel-card{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+  border: solid 2px black;
+}
+
+.travel-card img {
+  margin-right: 16px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+
+
